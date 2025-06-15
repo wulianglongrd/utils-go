@@ -1,2 +1,2 @@
 # utils-go
-some interesting utils come from open source.
+Some interesting utils come from the open source community.
